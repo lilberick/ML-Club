@@ -4,7 +4,7 @@
 
 ---
 
-![](.img/3.jpeg)
+![](.img/8.png)
 
 # Reglas del Machine Learning Club
 
