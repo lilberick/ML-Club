@@ -4,7 +4,8 @@
 
 ---
 
-![](.img/8.png)
+https://github.com/lilberick/ML-Club/assets/20149673/9d78d3c5-0d29-45a7-9e3c-4d5b6a88910d
+
 
 # Reglas del Machine Learning Club
 
