@@ -20,16 +20,16 @@ https://github.com/lilberick/ML-Club/assets/20149673/9d78d3c5-0d29-45a7-9e3c-4d5
 
 # Temas Pendientes (basado en el libro: [Mathematics for machine learning](https://mml-book.github.io/book/mml-book.pdf))
 
+* [Formato de documentación](FormatoDocumentacion.ipynb)
+
 |usuario|Part I: Mathematical Foundations|
 |---|---|
-|mochi|3 (Analytic Geometry)|
 |fer|4 (Matrix Decompositions)|
 |juan solo|7 (Continuous Optimization)|
-|sebdev|6 (Probability and Distributions)|
 |lilberick|5 (Vector Calculus)|
 |libre|2 (Linear Algebra)(Si no tienes tema, tómalo)|
 
-# Próxima reunión: Domingo 29/10/23
+# Próxima reunión: Domingo 05/11/23
 
 |País|Hora|
 |---|---|
