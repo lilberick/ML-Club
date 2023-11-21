@@ -24,12 +24,12 @@ https://github.com/lilberick/ML-Club/assets/20149673/9d78d3c5-0d29-45a7-9e3c-4d5
 
 |usuario|Part I: Mathematical Foundations|
 |---|---|
-|fer|4 (Matrix Decompositions)|
-|juan solo|7 (Continuous Optimization)|
-|lilberick|5 (Vector Calculus)|
-|libre|2 (Linear Algebra)(Si no tienes tema, tómalo)|
+||4 (Matrix Decompositions)(Puedes tomar este tema) |
+||7 (Continuous Optimization)(Puedes tomar este tema) |
+|lilberick|5 (Vector Calculus) |
+||2 (Linear Algebra)(Puedes tomar este tema)) |
 
-# Próxima reunión: Domingo 05/11/23
+# Próxima reunión: Domingo 26/11/23
 
 |País|Hora|
 |---|---|
